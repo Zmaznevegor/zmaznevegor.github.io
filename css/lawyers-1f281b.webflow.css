@@ -2458,6 +2458,12 @@ figcaption {
 .logo-image.is-5 {
   width: 17rem;
 }
+.logo-image.is-8 {
+  width: 4rem;
+}
+.logo-image.is-9 {
+  width: 5rem;
+}
 
 .footer {
   overflow: hidden;
@@ -3448,6 +3454,12 @@ figcaption {
   .logo-image.is-5 {
     width: 10.875rem;
   }
+  .logo-image.is-8 {
+  width: 2.5rem;
+}
+.logo-image.is-9 {
+  width: 3rem;
+}
 
   .footer-grid {
     grid-column-gap: 2rem;
